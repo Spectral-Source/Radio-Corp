@@ -76,7 +76,7 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
 
 
 
-## Friend or Foe (FOF) Signals
+## Friend or (Foe) Signals
 
 - **IFF Interrogator**: 
   - **Location Used**: Aircraft, ground units, air defense systems
