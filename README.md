@@ -102,6 +102,9 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
     - The AN/PRC-117G radio provides secure voice and data communication for dismounted soldiers and special operations teams operating in remote or hostile environments.
     - Its encryption capabilities and frequency hopping techniques ensure confidentiality and resistance to interception, while its compact size and rugged design make it suitable for tactical deployments in the field.
 
+![prc-removebg-preview](https://github.com/Spectral-Source/Radio-Corp/assets/137928993/3cb852a7-f06e-4e69-9580-ad97aa86bf9c)
+
+
 ## Artificial Intelligence and Machine Learning
 
 - **AI-enabled Radar Systems**: 
