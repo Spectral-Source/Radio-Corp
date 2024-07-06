@@ -169,3 +169,6 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
 ## Conclusion
 
 Radio and signals corps are at the forefront of modern warfare, leveraging advanced technologies, equipment, and tactics to establish secure and resilient communication networks. By embracing innovation, adaptation, and collaboration, these specialized units contribute to mission success and operational superiority in complex and dynamic operational environments.
+
+- This repository contains information that can be sourced from the internet and other open-source data.
+- i'm not responsible for any usage of this public info 
