@@ -21,6 +21,9 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
     - The AN/APG-68 radar utilizes a mechanically scanned array to emit and receive radio frequency (RF) signals in the X-band. Its high range and coverage angles make it suitable for air-to-air and air-to-ground surveillance and targeting.
     - The radar's waveform generation and processing capabilities enable it to detect and track multiple targets simultaneously, while its solid-state transmitter provides reliable performance in diverse environmental conditions.
 
+![68](https://github.com/Spectral-Source/Radio-Corp/assets/137928993/c04ccaa1-4310-4ec2-85a6-6c8e35e75435)
+
+
 ## Phased Array Antennas
 
 - **AN/SPY-1 Radar**: 
