@@ -35,6 +35,9 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
     - The AN/SPY-1 radar employs phased array antenna technology to electronically steer and shape its radar beams, providing rapid scanning and tracking capabilities for air and missile defense.
     - By dynamically adjusting the phase and amplitude of individual antenna elements, the radar can adapt its coverage patterns in real-time, enabling precise target tracking and discrimination in complex electromagnetic environments.
 
+![array](https://github.com/Spectral-Source/Radio-Corp/assets/137928993/2663f4a2-0dee-468a-8e60-18f320efcb48)
+
+
 ## Stealth and Counter-Stealth Technologies
 
 - **F-35 Lightning II Stealth Fighter**: 
@@ -65,6 +68,10 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
   - **In-Depth Analysis**:
     - The AN/ALQ-99 system provides comprehensive electronic warfare capabilities, including threat detection, analysis, and suppression, to protect friendly aircraft from hostile radar and missile systems.
     - By emitting powerful jamming signals across a wide frequency spectrum, the system disrupts enemy radar and communication networks, degrading their effectiveness and enhancing survivability for friendly forces.
+
+![992](https://github.com/Spectral-Source/Radio-Corp/assets/137928993/26a80857-4f22-451f-9fa3-bb6140b6133e) <img src="https://github.com/Spectral-Source/Radio-Corp/assets/137928993/00c7cd79-26db-459d-ad24-2857d26d1119" width="380" height="189" />
+
+
 
 ## Friend or Foe (FOF) Signals
 
