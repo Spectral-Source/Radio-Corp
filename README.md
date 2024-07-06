@@ -136,7 +136,7 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
 ## Future Trends and Emerging Technologies
 
 - **Directed Energy Weapons (DEWs)**:
-  - **Location Used**: Ground vehicles, naval vessels, aircraft
+  - **Location Used**: Ground vehicles, naval vessels, aircraft, space
   - **Types**: High-energy lasers, high-power microwaves
   - **Applications**: Counter-drone systems, missile defense, precision targeting
   - **Technical Specifications**:
@@ -145,6 +145,9 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
   - **In-Depth Analysis**:
     - Directed energy weapons offer the potential for precision engagement and non-kinetic effects on the battlefield.
     - By delivering focused energy at the speed of light, these weapons can neutralize threats with minimal collateral damage, revolutionizing the nature of warfare in the 21st century.
+
+![dew](https://github.com/Spectral-Source/Radio-Corp/assets/137928993/81ce8322-d7cb-4d7c-82c7-b90de22ad4bc)
+
 
 ## Unmanned Aerial Vehicles (UAVs)
 
@@ -159,6 +162,9 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
   - **In-Depth Analysis**:
     - The MQ-9 Reaper UAV is a versatile unmanned aircraft used for intelligence, surveillance, reconnaissance (ISR), and strike missions in contested and hostile environments.
     - Its advanced communication systems, including satellite links and line-of-sight data links, enable operators to control the aircraft and receive real-time sensor data from remote locations, facilitating rapid decision-making and mission execution.
+
+![image](https://github.com/Spectral-Source/Radio-Corp/assets/137928993/67c00d5a-0e8c-438a-bf27-120f95be795e)
+
 
 ## Conclusion
 
