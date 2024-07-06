@@ -85,6 +85,9 @@ In modern warfare, radio and signals corps play a pivotal role in establishing a
     - Identification Friend or Foe (IFF) systems use coded interrogations and responses to distinguish between friendly and hostile aircraft, enhancing situational awareness and reducing the risk of fratricide in complex airspace environments.
     - Advanced IFF modes, such as Mode 5, incorporate secure cryptographic techniques and enhanced interrogation methods to prevent spoofing and ensure reliable identification of friendly forces.
 
+![05](https://github.com/Spectral-Source/Radio-Corp/assets/137928993/bd26e02e-c1cf-4b25-aedc-4e1196f6b0bf)
+
+
 ## Advanced Communication Systems
 
 - **Harris AN/PRC-117G Manpack Radio**:
